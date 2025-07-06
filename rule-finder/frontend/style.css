@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.upload-section, .qa-section {
+    margin-bottom: 20px;
+}
+
+#answer {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
